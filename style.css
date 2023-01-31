@@ -1,0 +1,24 @@
+.corpo {
+    text-align:center;
+    background-color:blue;
+  }
+  
+  #input {
+    width: 200px;
+    height: 20px;
+    text-align:center;
+    display:inline;
+    margin: 2em 2em;
+  }
+  
+  .logo__dev {
+    width: auto;
+    height: auto;
+    border-radius: 35px;
+    display:flex;
+    margin: 3em 3em;
+  }
+  
+  .botao:hover {
+    color:green;
+  }
